@@ -4,7 +4,7 @@
  <div align="left">
   <div style="display: inline_block">
     <h3> About me: </h3>
-    <p>- 👨‍💻 Computer Science Student, 3ª Period, UNICAP.</p>
+    <p>- 👨‍💻 Computer Science Student, 4 Period, UNICAP.</p>
     <a>
     <img alt="image" src="./image/image.png" width="30%" align="right" style="margin-top: 80px">
     </a>
