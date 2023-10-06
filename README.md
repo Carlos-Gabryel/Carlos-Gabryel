@@ -43,6 +43,6 @@
   </div>
 </div>
  
-![Snake animation](https://github.com/N3th3rL0rd/N3th3rL0rd/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/N3th3rL0rd/N3th3rL0rd/blob/output/github-contribution-grid-snake.svg)
   </a>
 </div>
