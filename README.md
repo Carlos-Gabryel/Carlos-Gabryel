@@ -8,7 +8,7 @@
     <a>
     <img alt="image" src="./image/image.png" width="30%" align="right" style="margin-top: 80px">
     </a>
-    <p>- 🇧🇷 São Lourenço, Brazil.</p>
+    <p>- 🇧🇷 Recife - PE, Brazil.</p>
   </div>
 
   <div style="display: inline_block">
