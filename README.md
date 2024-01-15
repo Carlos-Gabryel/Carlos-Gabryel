@@ -35,14 +35,14 @@
   <a>
     <img alt="image" src="./image/topete.png" width="11%" align="left" style="margin-right:px">
     </a>
-    <img height="180em" align="center" style="margin-left: 40px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N3th3rL0rd&layout=compact&langs_count=16&theme=maroongold"/>
-    <img height="180em" align="center" style="margin-left: 0px" src="https://github-readme-stats.vercel.app/api?username=N3th3rL0rd&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
+    <img height="180em" align="center" style="margin-left: 40px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Gabryel&layout=compact&langs_count=16&theme=maroongold"/>
+    <img height="180em" align="center" style="margin-left: 0px" src="https://github-readme-stats.vercel.app/api?username=Carlos-Gabryel&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
     <a>
     <img alt="image" src="./image/image2.png" width="20%" align="center" style="margin-left: 0px">
     </a>
   </div>
 </div>
  
-![snake gif](https://github.com/N3th3rL0rd/N3th3rL0rd/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Carlos-Gabryel/Carlos-Gabryel/blob/output/github-contribution-grid-snake.svg)
   </a>
 </div>
